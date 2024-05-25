@@ -1,0 +1,2 @@
+# supcourse
+AI courses
